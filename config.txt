@@ -1,5 +1,0 @@
-[user]
-	email = kerttutalts@gmail.com
-[credential]
-	helper = wincred
-.class files contain the bytecode of the compiled Java program
