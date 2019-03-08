@@ -1,0 +1,5 @@
+[user]
+	name = kerttutalts
+	email = kerttutalts@gmail.com
+[credential]
+	helper = wincred
